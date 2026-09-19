@@ -1,0 +1,11 @@
+print("*****COMMON FUNCTIONS*****")
+print("***1)len***")
+print("len('hello world'): ",len('hello world'))
+print("***2)max***")
+print("max('hello world'): ",max('hello world'))
+print("***3)min***")
+print("min('hello world'): ",min('hello world'))
+print("***4)sorted***")
+print("sorted('hello world'): ",sorted('hello world'))
+# sorted ascending order m arrange kiya 
+print("sorted('hello world',reverse='true'): ",sorted('hello world',reverse='true'))
